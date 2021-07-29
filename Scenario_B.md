@@ -6,6 +6,5 @@ The course does allow reconsideration for students under extenuating circumstanc
 
 We will gladly welcome you to the same course in the next semester once you have less load and better availability. In the meantime, you can continue watching the course's session recordings and access other [Cybersecurity resources online](http://guides.codepath.com/cybersecurity/Cybersecurity-Resources#cybersecurity-resources) in your own time.
 
-All the best,
-
+All the best,  
 CodePath.org Team
