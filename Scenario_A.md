@@ -7,4 +7,5 @@ Please be reminded that staying for at least half of the class duration is requi
 We understand that keeping up with different class schedules may be confusing at times. In such cases, students can always check upcoming classes in their Google Calendars.
 
 All the best,
+
 CodePath.org Team
